@@ -1,3 +1,3 @@
 # AWS-Automations
 
-![s3toSNSjpg](https://github.com/shdfx77/AWS-Automations/assets/104664479/217f4c91-e121-4400-8993-928046fd367a)
+![s3tosns](https://github.com/shdfx77/AWS-Automations/assets/104664479/7eabe8c2-1675-4cb5-a1ca-e04086ed2369)
